@@ -1,8 +1,7 @@
-# Welcome to GitHub 
+## Project Mission
+In the present digital era, people ought to work with a huge volume of e-texts. Everything one needs to look at, from home to office, is in a digital mode. Going through a large volume of such texts is often tedious. Also, often we have to go through a lot of unnecessary documents, simply because we do not have an idea about each and everything that is contained in that document. One possible solution of such a problem is to have a summary, or, a synopsis of the text data we want to learn more about.  But, taking out a summary of a huge text manually is as inconvenient. 
+Today, human beings possess one of the greatest tools that one could ever have - AI. The mission of the project has been to generate an AI-powered solution to the mentioned problem.
 
-You can use the [editor on GitHub](https://github.com/Mainak2007/Abstractive-Autosummarizer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
